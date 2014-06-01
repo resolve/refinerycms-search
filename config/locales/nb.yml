@@ -1,0 +1,9 @@
+nb:
+  refinery:
+    plugins:
+      refinerycms_search:
+        title: Søk
+        description: Ekstra søkefunksjonalitet for Refinery CMS
+    search:
+      show:
+        search_results_for: Søkeresultat for '%{what}'
